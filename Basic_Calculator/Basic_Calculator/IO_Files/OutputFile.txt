@@ -1,0 +1,17 @@
+RESULT:
+9 * 5 = 45
+36 / 4 = 9
+26  ?  24 = Operator Error !
+23 + 12 = 35
+12 - -8 = 20
+11 * -21 = -231
+-156 / -12 = 13
+12 *  f = Invalid Operand !
+12f +  33 = Invalid Operand !
+43 / 0 = Division by 0 cannot be done !
+10 - 5 = 5
+65 / 0 = Division by 0 cannot be done !
+34 - 6 = 28
+88  ?  12 = Operator Error !
+56 / 8 = 7
+
